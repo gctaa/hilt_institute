@@ -1,6 +1,21 @@
-<b>Activiites </b>
+<br>
+<h1><b>Activites </b></h1>
+
 <ul>
-<li>Fieltrips to museums</li>
+
+<li>Field trips to museums</li>
+<br>
 <li>Birthday Celebrations</li>
+<br>
+<li>Parties</li>
+<br>
+<li>award ceremony</li>
+<br>
+<li>Culture Recognition</li>
+<br>
 </ul>
+<br> 
+<br>
+<br>
+<br>
 %rebase templates/layout.tpl title='HILT Institute Activities', addstyles=['activities'], scripts=None
