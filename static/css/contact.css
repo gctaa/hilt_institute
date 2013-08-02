@@ -1,3 +1,6 @@
 p {
     text-align: center;
 }
+ul {
+    margin-top: 40px;
+    list-style-type: none;
