@@ -1,3 +1,11 @@
 p {
+    text-align: left;
+    margin: 20px;
+}
+section > h1{
     text-align: center;
+    margin: 20px;    
+}
+section > h2,ul{
+    margin-left: 20px;
 }
