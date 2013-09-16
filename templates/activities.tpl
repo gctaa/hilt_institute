@@ -1,6 +1,8 @@
 <br>
 <h1><b>Activites </b></h1>
 
+    <h2>Spanish Heritage Month</h2>
+
 <ul>
 
 <li>Field trips to museums</li>
