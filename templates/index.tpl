@@ -5,18 +5,33 @@ valuable career and technical skills.  This web site was made by students in
 our program.
 </p>
 
+<div id="notification">
+    <h1>Notification box</h1>
+    <h2> Check out the "Activities" tab for events happening in the Career Center</h2>  
+    <ul>
+        <li><a href="http://www.teachertube.com/viewVideo.php?video_id=125025">Celebrate Hispanic Heritage Month</a></li>
+
+        <li><a href="https://sites.google.com/site/englishreadingandwriting/">Mr. Kinnard's Class</a></li>
+    </ul>
+    
+    </div>
+
 <div id="left_panel">
   <h1>HILT Institute offers:</h1>
 
+
   <ul>
     <li>Small classes</li>
+    <p>9-15 Students in a class, better opportunity for teacher to help you a
+work one on one, extra help available.</p>
     <li>Career and technical</li>
     <li>High school diploma</li>
-    <li>College credit (dual enrollment)
+    <li>College credit (dual enrollment)</li>
     <li>Counseling</li>
     <li>After-school tutoring</li>
     <li>Mentoring</li>
     <li>Field trips and group activities</li>
+    
   </ul>
 </div>
 
