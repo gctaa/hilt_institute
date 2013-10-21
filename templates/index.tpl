@@ -7,7 +7,7 @@ our program.
 
 <div id="notification">
     <h1>Notification box</h1>
-    <h2> Check out the "Activities" tab for events happening in the Career Center</h2>  
+    <p> Check out the "Activities" tab for events happening in the Career Center</p>  
     <ul>
         <li><a href="http://www.teachertube.com/viewVideo.php?video_id=125025">Celebrate Hispanic Heritage Month</a></li>
 
@@ -22,8 +22,6 @@ our program.
 
   <ul>
     <li>Small classes</li>
-    <p>9-15 Students in a class, better opportunity for teacher to help you a
-work one on one, extra help available.</p>
     <li>Career and technical</li>
     <li>High school diploma</li>
     <li>College credit (dual enrollment)</li>
@@ -59,6 +57,7 @@ work one on one, extra help available.</p>
 
  <li><img src="/static/slides/TG Celebration.jpg"
    width="600" height="450" title="" alt="Celebration"></li>
+
 </ul>
 </div>   
   
