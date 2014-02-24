@@ -10,7 +10,7 @@
   <li><a href="staff/scullin">Mr. Scullin</a>, Science</li>
   <li><a href="staff/styles">Ms. Styles</a>, Guidance Councelor</li>
   <li><a href="staff/trevino">Ms.Treviño</a>, HILT Institute Coordinator</li>
-  <li><a href="staff/vogel">Ms. Vogel</a>, English</li>
   <li><a href="staff/zawolo">Mr. Zawolo</a>, Math</li>
+  <li><a href="staff/jhonston">Ms. Jhonston</a>, English</li>
 </ul>
 %rebase templates/layout.tpl title='HILT Institute Staff Directory', addstyles=['staff'], scripts=None
