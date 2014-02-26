@@ -41,8 +41,8 @@ our program.
   <li><img src="/static/slides/student_government.jpg"
   width="600" height="450" title="" alt="Student Government"></li>
 
-  <li><img src="/static/slides/yesenia_y_cindy.jpg"
-  width="600" height="450" title="" alt="Yesenia y Cindy"></li>
+  <li><img src="/static/slides/mechanic.jpg"
+  width="600" height="450" title="" alt="Cristian y Oscar"></li>
   <li><img src="/static/slides/award.jpg"
     width="600" height="450" title="" alt="Geovanny Getting An Award"></li>
 
