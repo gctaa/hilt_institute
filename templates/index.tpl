@@ -35,29 +35,50 @@ our program.
 
 <div id="right_panel">
 <ul class="slideshow">
-  <li class="show"><img src="/static/slides/electricity.jpg"
-  width="600" height="450" title="" alt="Electricity Class"></li>
+  <li class="show"><img src="/static/slides/slide1.jpg"
+  width="600" height="450" title="" alt="Oscar and Cristian in Mechanic"></li>
 
-  <li><img src="/static/slides/student_government.jpg"
-  width="600" height="450" title="" alt="Student Government"></li>
+  <li><img src="/static/slides/slide2.jpg"
+  width="600" height="450" title="" alt="Carmen stying "></li>
 
-  <li><img src="/static/slides/mechanic.jpg"
-  width="600" height="450" title="" alt="Cristian y Oscar"></li>
-  <li><img src="/static/slides/award.jpg"
-    width="600" height="450" title="" alt="Geovanny Getting An Award"></li>
+  <li><img src="/static/slides/slide3.jpg"
+  width="600" height="450" title="" alt="Student Learning "></li>
+  <li><img src="/static/slides/slide4"
+    width="600" height="450" title="" alt="Ms.Johnson and Ever in English Class"></li>
 
-  <li><img src="/static/slides/ROTC.jpg"
-   width="600" height="450" title="" alt="ROTC Class"></li>
+  <li><img src="/static/slides/slide5.jpg"
+   width="600" height="450" title="" alt="Josue in Class"></li>
  
- <li><img src="/static/slides/riccy.jpg"
-   width="600" height="450" title="" alt="riccy"></li>
+ <li><img src="/static/slides/slide6.jpg"
+   width="600" height="450" title="" alt="Juan Carlos in class"></li>
 
- <li><img src="/static/slides/rotc_damaris.jpg"
-   width="600" height="450" title="" alt="Damaris ROTC"></li>
+ <li><img src="/static/slides/slide7"
+   width="600" height="450" title="" alt="Samuel in Class"></li>
 
- <li><img src="/static/slides/TG Celebration.jpg"
-   width="600" height="450" title="" alt="Celebration"></li>
+ <li><img src="/static/slides/slide8.jpg"
+   width="600" height="450" title="" alt="Oscar in Auto Body"></li>
 
+<li><img src="/static/slides/slide9.jpg"
+   width="600" height="450" title="" alt="Oscar and Cristian in Auto Body"></li>
+<li><img src="/static/slides/slide10.jpg"
+   width="600" height="450" title="" alt="Salvador in Culinary Art"></li>
+<li><img src="/static/slides/slide11.jpg"
+   width="600" height="450" title="" alt="ROTC"></li>
+<li><img src="/static/slides/slide12.jpg"
+   width="600" height="450" title="" alt="ROTC"></li>
+<li><img src="/static/slides/slide13.jpg"
+   width="600" height="450" title="" alt="ROTC"></li>
+
+<li><img src="/static/slides/slide14.jpg"
+   width="600" height="450" title="" alt="Ms.Cumming and Edubina "></li>
+<li><img src="/static/slides/slide15.jpg"
+   width="600" height="450" title="" alt="Students Helping Each Other"></li>
+<li><img src="/static/slides/slide16.jpg"
+   width="600" height="450" title="" alt=""></li>
+<li><img src="/static/slides/slide17.jpg"
+   width="600" height="450" title="" alt="Students Helping "></li>
+
+ <li><img src="/static/slides/slide8.jpg"
 </ul>
 </div>   
   
