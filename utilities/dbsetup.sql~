@@ -77,5 +77,9 @@ Insert into staff_info values("palomeque","Mr. Palomeque","Family Resource", 'My
 Insert into staff_info values("johnson","Mr. Johnson","English", '  I was born in Washington, DC.  In my 20s I lived in Morocco, Spain, Brazil, Greece and Mexico.  I enjoy studying foreign languages and learning about new cultures.  I went to the university in New York and later to Virginia Tech and the School for International Training in Vermont (the same school where Mr. Kinnard  went!).I am married and have one son and one daughter.  My goals for this year are to make sure my students improve their English and enjoy learning together.   ');
 
 
+Insert into staff_info values("styles","Mr. Styles","Counselor", '  Lisa Styles is one of the full-time Professional School Counselors at The Arlington Career Center.  She received her Bachelors of Science  Degree in Psychology from American International College in Springfield Massachusetts.  Ms. Styles earned a Master’s Degree in Social Work from The University of Connecticut, and a Master’s degree in Education in School Counseling from George Mason University.  Ms. Styles has worked in The  Arlington Public Schools (APS) System as a Social Worker and School Counselor   ');
+
+
+
 
 
