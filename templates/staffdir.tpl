@@ -8,5 +8,6 @@
   <li><a href="staff/zawolo">Mr. Zawolo</a>, Math</li>
   <li><a href="staff/johnson">Ms. Johnson</a>, English</li>
   <li><a href="staff/sanchez">Ms. Sanchez</a>, Business / Keyboarding</li>
+  <li><a href="staff/styles">Ms. Styles</a>, Counselor</li>
 </ul>
 %rebase templates/layout.tpl title='HILT Institute Staff Directory', addstyles=['staff'], scripts=None
