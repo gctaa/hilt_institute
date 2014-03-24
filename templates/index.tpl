@@ -39,11 +39,11 @@ our program.
   width="600" height="450" title="" alt="Oscar and Cristian in Mechanic"></li>
 
   <li><img src="/static/slides/slide2.jpg"
-  width="600" height="450" title="" alt="Carmen stying "></li>
+  width="600" height="450" title="" alt="Carmen studying "></li>
 
   <li><img src="/static/slides/slide3.jpg"
   width="600" height="450" title="" alt="Student Learning "></li>
-  <li><img src="/static/slides/slide4"
+  <li><img src="/static/slides/slide4.jpg"
     width="600" height="450" title="" alt="Ms.Johnson and Ever in English Class"></li>
 
   <li><img src="/static/slides/slide5.jpg"
@@ -52,7 +52,7 @@ our program.
  <li><img src="/static/slides/slide6.jpg"
    width="600" height="450" title="" alt="Juan Carlos in class"></li>
 
- <li><img src="/static/slides/slide7"
+ <li><img src="/static/slides/slide7.jpg"
    width="600" height="450" title="" alt="Samuel in Class"></li>
 
  <li><img src="/static/slides/slide8.jpg"
@@ -77,8 +77,6 @@ our program.
    width="600" height="450" title="" alt=""></li>
 <li><img src="/static/slides/slide17.jpg"
    width="600" height="450" title="" alt="Students Helping "></li>
-
- <li><img src="/static/slides/slide8.jpg"
 </ul>
 </div>   
   
