@@ -46,15 +46,22 @@ our program.
  <li><img src="/static/slides/slide4.jpg"
     width="600" height="450" title="" alt="Small Classroom Environment"></li>
 
- <li><img src="/static/slides/slide7.jpg"
+ <li><img src="/static/slides/slide5.jpg"
    width="600" height="450" title="" alt="Samuel in Class"></li>
 
- <li><img src="/static/slides/slide13.jpg"
+ <li><img src="/static/slides/slide6.jpg"
    width="600" height="450" title="" alt="Career and Technical
 Education"></li>
 
- <li><img src="/static/slides/slide14.jpg"
+ <li><img src="/static/slides/slide7.jpg"
    width="600" height="450" title="" alt="Individualized Support "></li>
+
+<li><img src="/static/slides/slide8.jpg"
+   width="600" height="450" title="" alt="Mr.Elkner in the Field Trip to the  museum "></li>
+
+<li><img src="/static/slides/slide9.jpg"
+   width="600" height="450" title="" alt="Daniela at the museum"></li>
+
 
 </ul>
 </div>   
