@@ -56,11 +56,7 @@ Education"></li>
  <li><img src="/static/slides/slide7.jpg"
    width="600" height="450" title="" alt="Individualized Support "></li>
 
-<li><img src="/static/slides/slide8.jpg"
-   width="600" height="450" title="" alt="Mr.Elkner in the Field Trip to the  museum "></li>
 
-<li><img src="/static/slides/slide9.jpg"
-   width="600" height="450" title="" alt="Daniela at the museum"></li>
 
 
 </ul>
