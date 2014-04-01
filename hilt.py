@@ -37,7 +37,6 @@ def schedule():
 @route('/staff')
 @route('/staff/<name>')
 def staff(name=None):
-    import pdb; pdb.set_trace()
     staff_dir = cur.execute("select * from staff_info").fetchall()
     staff_names = []
     for staff_name in staff_dir:
