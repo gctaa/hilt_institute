@@ -7,7 +7,7 @@ our program.
 
 <div id="notification">
     <h1>Announcements</h1>
-    <p> Check out the "Activities" tab for events happening in the Career Center</p>  
+      
     <ul>
         <li><a href="http://www.teachertube.com/viewVideo.php?video_id=125025">Celebrate Hispanic Heritage Month</a></li>
 
