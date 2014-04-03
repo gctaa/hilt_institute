@@ -32,14 +32,6 @@
 
 <ul>
   <li>
-    Louise Vogel, English<br>
-    <a href="mailto:louise.vogel@apsva.us">louise.vogel@apsva.us</a><br>
-   703-228-2155
-  </li>
-</ul>
-
-<ul>
-  <li>
     Isaac Zawolo  Mathematics<br>
     <a href="mailto:issac.zawolo@apsva.us">issac.zawolo@apsva.us</a><br>
    703-228-2157
@@ -53,5 +45,23 @@
    703-228-5741
   </li>
 </ul>
+<ul>
+  <li>
+    Erika Sanchez, Business / Keyboarding<br>
+    <a href="mailto:erika.sanchez@apva.us">erika.sanchez@apva.us</a><br>
+   703-228-5733
+  </li>
+</ul>
+
+
+<ul>
+  <li>
+    Valerie Johnston, English<br>
+    <a href="mailto:susan.johnston@apsva.us">susan.johnston@apsva.us</a><br>
+   703-228-2155
+  </li>
+</ul>
+
+
 
 %rebase templates/layout title='HILT Institute Contact', addstyles=['contact'], scripts=None
