@@ -12,10 +12,13 @@ div#left_panel {
     width: 400px;
 }
 div#left_panel ul {
-    list-style-type: none;
+    list-style-type: square;
 }
 div#left_panel li {
-    margin-top: 5px;
+    margin-top: 2px;
+}
+div#left_panel  {
+    margin-top: 0px;
 }
 div#right_panel {
     display: table;
@@ -31,6 +34,14 @@ div#notification {
     width: 420px;
     padding: 10px;
 }
+div#Links {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    border: 1px dotted #777;
+    width: 420px;
+    padding: 10px;
+}
+
 a:link {
         text-decoration:none;
 }
