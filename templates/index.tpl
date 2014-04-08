@@ -6,27 +6,38 @@ our program.
 </p>
 
 <div id="notification">
-    <h1>Announcements</h1>
+    <h2>Announcements</h2>
       
     <ul>
         <li><a href="http://www.teachertube.com/viewVideo.php?video_id=125025">Celebrate Hispanic Heritage Month</a></li>
 
-        <li><a href="https://sites.google.com/site/englishreadingandwriting/">Mr. Kinnard's Class</a></li>
     </ul>
     
     </div>
 
+
+<div id="Links">
+    <h2>Links</h2>
+
+    <ul>
+        <li><a href="http://ict.gctaa.net/">Mr.Elkner's Class</a></li>
+
+        <li><a href="https://sites.google.com/site/englishreadingandwriting/">Mr. Kinnard's Class</a></li>
+    </ul>
+
+    </div>
+
+
 <div id="left_panel">
-  <h1>HILT Institute offers:</h1>
+  <h2>HILT Institute offers:</h2>
   <ul>
     <li>Small class environments</li>
     <li>Family-like atmosphere</li>
-    <li>Career and technical Education</li>
+    <li>Career and technical education</li>
     <li>High school diploma</li>
     <li>College credit (dual enrollment)</li>
     <li>Counseling</li>
     <li>After-school tutoring</li>
-    <li>Mentoring</li>
     <li>Field trips and group activities</li>
   </ul>
 </div>
@@ -45,9 +56,6 @@ our program.
 
  <li><img src="/static/slides/slide4.jpg"
     width="600" height="450" title="" alt="Small Classroom Environment"></li>
-
- <li><img src="/static/slides/slide5.jpg"
-   width="600" height="450" title="" alt="Samuel in Class"></li>
 
  <li><img src="/static/slides/slide6.jpg"
    width="600" height="450" title="" alt="Career and Technical
