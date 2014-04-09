@@ -5,7 +5,8 @@ create table staff_info(
     description varchar(2000)
 );
 
-Insert into staff_info values( "cummings","Ms. Patricia Cummings","History / Ecomomics","Ms. Cummings hails from city of Philadelphia in the great state of
+Insert into staff_info values( "cummings","Ms. Patricia Cummings","History / Ecomomics" "Pat Cummings, Social Studies
+patcummings@apsva.us 703-228-2156","Ms. Cummings hails from city of Philadelphia in the great state of
 Pennsylvania. She first became interested in meeting and working with people
 from other countries when she started studying French in high school. She spent
 her junior year of college in France for two years after receiving her BA from
