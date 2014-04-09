@@ -22,7 +22,7 @@ div#left_panel  {
 }
 div#right_panel {
     display: table;
-    margin-left: auto;
+    margin-left: center;
     margin-right: 30px ;
     margin-bottom: 50px;
     margin-top: -175px;
