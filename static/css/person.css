@@ -20,11 +20,11 @@ p#description {
 }
 section h1, section h2 {
     color: #0042A9;
+    line-height: 10px;
     margin-left: 10px;
     font-family: 'Carrois Gothic SC', sans-serif;
 }
 section h1 {
     text-transform: uppercase;
     font-size: x-large;
-    margin-bottom: -20px;
 }
