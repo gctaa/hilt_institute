@@ -50,11 +50,15 @@ def staff(name=None):
                 return template('templates/staffmember.tpl', name=name,
                                 full_name=staff_tuple[1],
                                 position=staff_tuple[2],
-                                description=staff_tuple[3])
+                                email=staff_tuple[3],
+                                phone=staff_tuple[4],
+                                description=staff_tuple[5])
     else:
         name = 'frankenstein'
         full_name = 'Mr. Monster Frankenstein'
         position = 'Lead Disciplinarian'
+        email='frankenstein@gmail.com'
+        phone='372-653-6786'
         description = """
 Mr. Frankenstein comes to the HILT Institute from his native Transilvania,
 where he worked as an assistant to his father in his science lab.  In addition
@@ -63,6 +67,7 @@ hobbies include cooking, knitting, and grave robbing.
 """
         return template('templates/staffmember.tpl', name=name,
                         full_name=full_name, position=position,
+                        email=email, phone=phone,
                         description=description)
 
 @route('/students')
