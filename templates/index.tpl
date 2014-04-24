@@ -17,10 +17,10 @@ our program.
 
 
 <div id="form">
-    <h2>Hilt Institute Form</h2>
+    <h2>HILT Institute Form</h2>
 
     <ul>
-        <li><a href="static/Form/form.doc">Hilt Instituted Form</a></li>
+        <li><a href="static/Form/form.doc">Hilt Institute Form</a></li>
 
     </ul>
 
