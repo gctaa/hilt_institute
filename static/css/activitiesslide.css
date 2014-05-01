@@ -8,17 +8,17 @@ ul.slideshow {
     padding: 0;
     margin-left: auto;
     margin-right: auto;
-}	
+}
 ul.slideshow li {
     position: absolute;
     left: 0;
     right: 0;
 }
 ul.slideshow li.show {
-    z-index: 500;	
+    z-index: 500;
 }
 ul img {
-    border: none;	
+    border: none;
 }
 #slideshow-caption {
     text-align: center;
@@ -27,21 +27,23 @@ ul img {
     height: 50px;
     position: absolute;
     bottom: 0;
-    left: 0;	
+    left: 0;
     color: #48036F;
-    background: #aaa;
+    background: none;
     z-index: 500;
 }
 #slideshow-caption .slideshow-caption-container {
-    padding: 5px 10px;		
+    padding: 5px 10px;
     z-index: 1000;
 }
 #slideshow-caption h3 {
     margin: 0;
-    padding: 0;	
+    padding: 0;
     font-size: 14px;
 }
 #slideshow-caption p {
     margin: 5px 0 0 0;
     padding: 0;
 }
+                                                                                                                           47,1          Bot
+
