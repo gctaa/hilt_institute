@@ -1,15 +1,20 @@
+section {
+    display: block;
+}
+div#left_panel {
+    margin: -5px;
+    padding: 20px;
+    width: 400px;
+}
+div#left_panel, div#right_panel {
+   display: inline-block;
+   vertical-align: top;
+}
 p#mission {
     margin: 30px;
     padding: 20px;
     border: 1px solid #000;
     font-size: large;
-}
-div#left_panel {
-    float: left;
-    margin: 30px;
-    padding: 20px;
-    border: 1px dotted #777;
-    width: 400px;
 }
 div#left_panel ul {
     list-style-type: square;
@@ -17,40 +22,16 @@ div#left_panel ul {
 div#left_panel li {
     margin-top: 2px;
 }
-div#left_panel  {
-    margin-top: 0px;
+div#left_panel {
+   margin-right: 110px;
 }
-div#right_panel {
-    display: table;
-    margin-left: center;
-    margin-right: 30px ;
+
+#left_panel div, #right_panel div {
+    margin-left: 0px;
     margin-bottom: 50px;
-    margin-top: -175px;
-}
-div#notification {
-    margin-left: 30px;
-    margin-bottom: 10px;
     border: 1px dotted #777;
-    width: 420px;
     padding: 10px;
 }
-div#Links {
-    margin-left: 30px;
-    margin-bottom: 10px;
-    border: 1px dotted #777;
-    width: 420px;
-    padding: 10px;
-}
-
-div#form {
-    margin-left: 30px;
-    margin-bottom: 10px;
-    border: 1px dotted #777;
-    width: 420px;
-    padding: 10px;
-}
-
-
 a:link {
-        text-decoration:none;
+    text-decoration: none;
 }
