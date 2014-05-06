@@ -2,7 +2,7 @@ ul.slideshow {
     display: table;
     list-style: none;
     width: 600px;
-    height: 450px;
+    height: 384px;
     overflow: hidden;
     position: relative;
     padding: 0;

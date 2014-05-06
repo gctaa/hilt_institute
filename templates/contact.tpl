@@ -1,3 +1,5 @@
+
+<h1> For more information about the HIlt institute please contact</h1>
 <ul>
   <li>
     Amanda Trevino, Coordinator<br>
@@ -8,57 +10,24 @@
 
 <ul>
   <li>
-    Pat Cummings, Social Studies<br>
-    <a href="mailto:patcummings@apsva.us">patcummings@apsva.us</a><br>
-   703-228-2156
+    Address<br>
+   816 S. Walter Reed Dr. Arlington, VA 22204</br>
+  </li>
+</ul>
+
+	 
+   
+<ul>
+  <li>
+    Main office<br>
+   703-228-5774</br>
   </li>
 </ul>
 
 <ul>
   <li>
-    Sean Kinnard, English<br>
-    <a href="mailto:sean.kinnard@apva.us">sean.kinnard@apsva.us</a><br>
-   703-228-5807
-  </li>
-</ul>
-
-<ul>
-  <li>
-    Michael Scullin, Science<br>
-    <a href="mailto:michael.scullin@apsva.us">michael.scullin@apsva.us</a><br>
-   703-228-5811
-  </li>
-</ul>
-
-<ul>
-  <li>
-    Isaac Zawolo  Mathematics<br>
-    <a href="mailto:issac.zawolo@apsva.us">issac.zawolo@apsva.us</a><br>
-   703-228-2157
-  </li>
-</ul>
-
-<ul>
-  <li> 
-    Jeannette Allen<br>
-    <a href="mailto:jeannette.allen@apsva.us">jeannette.allen@apsva.us</a><br>
-   703-228-5741
-  </li>
-</ul>
-<ul>
-  <li>
-    Erika Sanchez, Business / Keyboarding<br>
-    <a href="mailto:erika.sanchez@apva.us">erika.sanchez@apva.us</a><br>
-   703-228-5733
-  </li>
-</ul>
-
-
-<ul>
-  <li>
-    Valerie Johnston, English<br>
-    <a href="mailto:susan.johnston@apsva.us">susan.johnston@apsva.us</a><br>
-   703-228-2155
+    Main office fax<br>
+   703-228-5815</br>
   </li>
 </ul>
 

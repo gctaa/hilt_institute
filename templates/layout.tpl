@@ -26,7 +26,6 @@
 <a href='/schedule'>Schedule</a>
 <a href='/staff'>Staff</a>
 <a href='/students'>Students</a>
-<a href='/academics'>Academics</a>
 <a href='/cte'>CTE</a>
 <a href='/activities'>Activities</a>
 <a href='/calendar'>Calendar</a>

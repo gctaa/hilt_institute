@@ -4,14 +4,25 @@ section {
 div#left_panel {
     margin: -5px;
     padding: 20px;
-    width: 400px;
+    width: 476px;
+}
+div#right_panel {
+    margin: -23px;
+    padding: 20px;
+    width: 476px;
 }
 div#left_panel, div#right_panel {
-   display: inline-block;
-   vertical-align: top;
+    display: inline-block;
+    vertical-align: top;
+}
+div#right_row {
+    display: table-row;
+}
+div#links, div#contact {
+    display: table-cell; 
 }
 p#mission {
-    margin: 30px;
+    margin: 15px;
     padding: 20px;
     border: 1px solid #000;
     font-size: large;
@@ -23,12 +34,12 @@ div#left_panel li {
     margin-top: 2px;
 }
 div#left_panel {
-   margin-right: 110px;
+   margin-right: 2px;
 }
 
 #left_panel div, #right_panel div {
     margin-left: 0px;
-    margin-bottom: 50px;
+    margin-bottom: 3px;
     border: 1px dotted #777;
     padding: 10px;
 }

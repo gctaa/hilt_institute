@@ -10,22 +10,29 @@ our program.
 <div id="announcements">
 <h2>Announcements</h2>
 <ul>
-  <li><a href="http://www.teachertube.com/viewVideo.php?video_id=125025">
-  Celebrate Hispanic Heritage Month</a></li>
+  <li><a href="">
+ May calender</a></li>
+
+<li><a href="">
+ SOL testing schedule</a></li>
+
+<li><a href="">
+ End of year testing</a></li>
+
 </ul>
 </div>
 
 <div id="form">
-<h2>HILT Institute Form</h2>
+<h2>Interested in attending HILT institute?</h2>
 <ul>
-  <li><a href="static/Form/form.doc">Hilt Institute Form</a></li>
+  <li><a href="static/Form/form.doc">HILT Institute Form</a></li>
 </ul>
 </div>
 
 <div id="institute_offers">
 <h2>HILT Institute offers:</h2>
 <ul>
-  <li>Small class environments</li>
+  <li>Smaller class environments</li>
   <li>Family-like atmosphere</li>
   <li>Career and technical education</li>
   <li>High school diploma</li>
@@ -58,7 +65,8 @@ our program.
    width="600" height="450" title="" alt="Individualized Support "></li>
 </ul>
 
-<div id="Links">
+<div id="right_row">
+<div id="links">
 <h2>Links</h2>
 <ul>
   <li><a href="http://ict.gctaa.net/">Mr.Elkner's Class</a></li>
@@ -66,6 +74,21 @@ our program.
   Mr. Kinnard's Class</a></li>
 </ul>
 </div>
+<div id="contact">
+<h2>Contact</h2>
+<ul>
+<li>
+    Amanda Trevino, Coordinator<br>
+    <a href="mailto:amanda.trevino@apsva.us">amanda.trevino@apsva.us</a><br>
+   703-228-5774
+  </li>
+</ul>
+</div>
+</div>
+
+
+
+
 </div>   
 </section>
   

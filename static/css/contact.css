@@ -1,5 +1,9 @@
+h1 {
+  text-align: center;
+}
+
 p {
-    text-align: center;
+   margin-left: 40px;
 }
 ul {
     margin-top: 40px;
